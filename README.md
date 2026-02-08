@@ -4,6 +4,8 @@
 - styles.css — стили проекта index.html
 - flexbox.html — примеры разметки
 - flexbox.css — стили для flexbox.html
+- store.html — веб-страница магазина одежды
+- store.css — стили для store.html
 - README.md — документация
 - img/ — папка для скриншотов
 ## Описание
